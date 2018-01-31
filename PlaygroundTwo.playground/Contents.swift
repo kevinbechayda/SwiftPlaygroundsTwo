@@ -27,3 +27,14 @@ else
     {
         print("I'm not doing too well")
     }
+
+//Part 4 #2
+var gradeA = true
+if gradeA {
+    print("I really Like this class")
+}
+else {"I'm not to sure about coding"
+}
+
+//Part 5
+
